@@ -1,26 +1,21 @@
-[color=green]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█
-█  [head=1]Pill Perscription[/head]
-█
-█  [head=3]Given to: [/head]Ted Cometrider
-█  [head=3]Issued by to: [/head]Vernelle Crelle[/color]
+[color=#52B4E9]◥[bold]N[/bold]◣ [bold]Medical Contractor Standards[/bold][/color]
+[color=#52B4E9]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Medical Prescription[/head]
 
+[head=3]Patient Information[/head]
+    [bold]Name:[/bold] Ted Cometrider
+    [bold]Species:[/bold] Moth Person
+    [bold]Occupation:[/bold] 
+    [bold]Vessel IFF:[/bold] 
 
-[head=2]Congratulations, [color=#002AAF]Ted Cometrider[/color]!![/head]
+[head=3]Prescription[/head]
+    [bullet/] HAPPINESS, dosage: 5 u
+    [bullet/] PSICODINE, dosage: 5 u
 
-This perscription certifies that [color=#002AAF]Ted Cometrider[/color] has permission to legally obtain these substances in limited quantities 
-(from any willing chemist)
+    [bullet/] HALOPERIDOL, dosage: 5 u
+    [bullet/] MANNITOL, dosage: 5 u
 
-(  ) Pax
-(X) Psicodine
-(X) Happiness
-(X) Mood stabilizer
-(  ) Blood thinner
-(  ) Laughter
-
-[italic][color=#aaaaaa] In order to be valid this document must be stamped by a therapist. If the awardee has received multiple certificates do not award extra pills for more papers.[/color][/italic]
-                                  [bold]═══╣ Stamp Below ╠═══[/bold]
-
-Signed by Vernelle Crelle on 3/31/XXXX
-
-Valid until 4/6/XXXX
+    [bold] HAPPINESS/PSICODINE pill is to be followed by 
+     HALOPERIDOL/MANNITOL before
+     HAPPINESS/PSICODINE is 
+     readministered.[/bold]
